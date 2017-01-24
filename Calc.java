@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Calc{
 
-public static void main(String[] args)throws Exception{
+public static void main(String[] args){
 
 if(args[0].equalsIgnoreCase("add")){
 double one = Double.parseDouble(args[1]);
